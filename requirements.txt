@@ -1,0 +1,17 @@
+appdirs==1.4.4
+async-timeout==3.0.1
+attrs==19.3.0
+black==19.10b0
+click==7.1.2
+cssselect==1.1.0
+lxml==4.5.0
+pathspec==0.8.0
+pyee==7.0.2
+pyppeteer==0.2.2
+regex==2020.5.14
+toml==0.10.1
+tqdm==4.46.0
+typed-ast==1.4.1
+typing-extensions==3.7.4.2
+urllib3==1.25.9
+websockets==8.1
